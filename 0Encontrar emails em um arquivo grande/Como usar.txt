@@ -1,0 +1,8 @@
+coloque o arquivo de texto grande em Filtrar.txt 
+ele o programa ira acessar company_emails_cache.txt para ver se o emails ja esta la
+se nao estiver ele mostrara na tela todos os emails encontrados que nao estao ainda em company_emails_cache.txt
+
+
+O arquivo company_emails.txt são emails ja encontrados e nao repetidos. 
+
+Os emails dessa pasta tem preferencia de serem apenas de empresas.
